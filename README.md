@@ -15,7 +15,8 @@
 ---
 
 ## 📌 Русский (RU)
-
+https://www.virustotal.com/gui/file/eaa9d119f65f225dadf5f9b1ef5ffa1b0f965b6794c3a77be67d17386a55b11f?nocache=1
+1/72
 ### 1. Регистрация приложения в Telegram
 
 1. Перейдите по ссылке: [https://my.telegram.org/apps](https://my.telegram.org/apps)
@@ -51,7 +52,8 @@
 ---
 
 ## 📌 English (EN)
-
+https://www.virustotal.com/gui/file/eaa9d119f65f225dadf5f9b1ef5ffa1b0f965b6794c3a77be67d17386a55b11f?nocache=1
+1/72
 ### 1. Register your application in Telegram
 
 1. Go to: [https://my.telegram.org/apps](https://my.telegram.org/apps)
@@ -87,7 +89,8 @@
 ---
 
 ## 📌 Latviešu (LV)
-
+https://www.virustotal.com/gui/file/eaa9d119f65f225dadf5f9b1ef5ffa1b0f965b6794c3a77be67d17386a55b11f?nocache=1
+1/72
 ### 1. Reģistrē savienojumu ar Telegram
 
 1. Dodieties uz: [https://my.telegram.org/apps](https://my.telegram.org/apps)
